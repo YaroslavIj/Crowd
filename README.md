@@ -1,4 +1,4 @@
-# Crowd-running crowd symulator
+# Crowd-running crowd simulator
 The player chases the crowd and must kill it within the time limit.
 ## Main features:
 - Enemy crowd AI
